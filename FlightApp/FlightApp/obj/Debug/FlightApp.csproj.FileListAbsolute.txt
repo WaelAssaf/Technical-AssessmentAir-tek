@@ -1,0 +1,8 @@
+c:\users\waelas\documents\visual studio 2015\Projects\FlightApp\FlightApp\bin\Debug\FlightApp.exe.config
+c:\users\waelas\documents\visual studio 2015\Projects\FlightApp\FlightApp\bin\Debug\FlightApp.exe
+c:\users\waelas\documents\visual studio 2015\Projects\FlightApp\FlightApp\bin\Debug\FlightApp.pdb
+c:\users\waelas\documents\visual studio 2015\Projects\FlightApp\FlightApp\obj\Debug\FlightApp.csprojResolveAssemblyReference.cache
+c:\users\waelas\documents\visual studio 2015\Projects\FlightApp\FlightApp\obj\Debug\FlightApp.exe
+c:\users\waelas\documents\visual studio 2015\Projects\FlightApp\FlightApp\obj\Debug\FlightApp.pdb
+C:\Users\waelas\Documents\Visual Studio 2015\Projects\FlightApp\FlightApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\waelas\Documents\Visual Studio 2015\Projects\FlightApp\FlightApp\bin\Debug\Newtonsoft.Json.xml
