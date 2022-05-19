@@ -23,7 +23,7 @@ namespace FlightApp.Menus
             return 0;
         }
 
-        public virtual int DisplayAndRead(Menu menu)
+        public  int DisplayAndRead(Menu menu)
         {
             Console.Clear();
             Console.WriteLine("******* " + menu.Title + " *******\n");
